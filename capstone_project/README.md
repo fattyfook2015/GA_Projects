@@ -115,7 +115,7 @@ ROC AUC score
 One ROC curve was generated per model by varying the threshold from 0 to 1. Optimal threshold was determined to be 0.485. This led to slight but not significant improvements to the Confusion Matrix metrics, as the default threshold is 0.5, and the figures are close enough that not much changed.
 
 
-![](./images/model_results.jpg)
+![](/images/model_results.jpg)
 
 ---
 
